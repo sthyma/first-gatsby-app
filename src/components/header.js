@@ -1,8 +1,8 @@
 import React from 'react'
-import styled from "styled-components"
+import Link from 'gatsby-link'
 
 const Header = ({ siteTitle }) => (
-    <div>Header</div>
+  <div>Header</div>
 )
 
 export default Header
