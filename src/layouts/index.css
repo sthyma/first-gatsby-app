@@ -11,3 +11,10 @@ a {
   font-weight: 600;
   text-decoration: none;
 }
+
+.Hero {
+  height: 500px;
+  background: linear-gradient(#e66465, #9198e5);;
+  background-size: cover;
+  background-position: center;
+}
